@@ -8,4 +8,6 @@ menu:
         weight: 2
         params: 
             icon: user
+
+comments: false
 ---
