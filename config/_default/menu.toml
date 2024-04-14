@@ -1,0 +1,63 @@
+# Configure main menu and social menu
+#[[main]]
+#identifier = "home"
+#name = "Home"
+#url = "/"
+#[main.params]
+#icon = "home"
+#newtab = true
+
+[[social]]
+identifier = "github"
+name = "GitHub"
+url = "https://github.com/dawnyc"
+weight = 1
+
+[social.params]
+#icon = "brand-github"
+icon = "github"
+
+[[social]]
+identifier = "googlescholar"
+name = "GoogleScholar"
+url = "https://scholar.google.cz/citations?user=WCl61vMAAAAJ&hl=zh-CN"
+weight = 2
+
+[social.params]
+icon = "googlescholar"
+
+[[social]]
+identifier = "zhihu"
+name = "Zhihu"
+url = "https://www.zhihu.com/people/dawn-37-27-35"
+weight = 3
+
+[social.params]
+icon = "zhihu"
+
+[[social]]
+identifier = "gmail"
+name = "Gmail"
+url = "mailto:dawnyc1123@gmail.com"
+weight = 4
+
+[social.params]
+icon = "gmail"
+
+[[social]]
+identifier = "work-mail"
+name = "Work-mail"
+url = "mailto:yidong_cai@smail.nju.edu.cn"
+weight = 5
+
+[social.params]
+icon = "minutemailer"
+
+[[social]]
+identifier = "bilibili"
+name = "Bilibili"
+url = "https://space.bilibili.com/365237503"
+weight = 6
+
+[social.params]
+icon = "bilibili"
