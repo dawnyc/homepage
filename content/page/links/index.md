@@ -11,11 +11,11 @@ links:
   - title: ROMTrack - Paper
     description: ICCV 2023 paper "Robust Object Modeling for Visual Tracking"
     website: https://arxiv.org/abs/2308.05140
-    image:
+    image: arxiv.png
   - title: ROMTrack - Repository
     description: Official implementation of ICCV 2023 paper "Robust Object Modeling for Visual Tracking"
     website: https://github.com/dawnyc/ROMTrack
-    image: 
+    image: github.png
   # - title:
   #   description:
   #   website:

@@ -45,8 +45,8 @@ weight = 4
 icon = "gmail"
 
 [[social]]
-identifier = "work-mail"
-name = "Work-mail"
+identifier = "edu-mail"
+name = "Edu-mail"
 url = "mailto:yidong_cai@smail.nju.edu.cn"
 weight = 5
 
