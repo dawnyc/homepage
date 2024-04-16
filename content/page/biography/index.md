@@ -12,7 +12,7 @@ menu:
 comments: false
 ---
 
-## About Me 🪪
+## About Me 🆔
 I'm currently a **M.Sc.** student at [MCG Group](https://mcg.nju.edu.cn/), [Department of Computer Science and Technology](https://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/main.htm), under the supervision of [Prof. Jie Tang](https://tangjie-njucs.github.io/). I also received my **Bachelor of Science** in Computer Science and Technology from Nanjing University in June 2021.
 
 My research interests include **Computer Vision** and **Deep Learning**, recently lie in **Visual Object Tracking (VOT)**, **Multimodal Learning** and **Generative Models**.
@@ -34,7 +34,7 @@ My research interests include **Computer Vision** and **Deep Learning**, recentl
     <br>
     <u><strong>Yidong Cai</strong></u>, Jie Liu, Jie Tang, Gangshan Wu. 
     <br>
-    In IEEE International Conference on Computer Vision (**ICCV**), 2023.
+    In IEEE International Conference on Computer Vision (<strong>ICCV</strong>), 2023.
     <br>
     <a href="https://arxiv.org/abs/2308.05140"><img src="https://img.shields.io/badge/arXiv-2403.16848-b31b1b.svg?style=flat-square" alt="Arxiv-2308.05140"></a>
     <a href="https://github.com/dawnyc/ROMTrack"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dawnyc/ROMTrack?style=flat-square&amp;logo=github&amp;label=GitHub Stars&amp;labelColor=black"></a>
