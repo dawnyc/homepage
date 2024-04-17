@@ -1,0 +1,4 @@
+<h{{ .Level }} id="{{ .Anchor }}" tabindex="-1">
+    <a href="#{{ .Anchor }}" class="header-anchor" aria-hidden="true">#</a>
+    {{ .Text | safeHTML }}
+</h{{ .Level }}>
