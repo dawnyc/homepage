@@ -223,7 +223,14 @@
         padding-inline-start: calc(var(--card-padding) - var(--heading-border-size));
         border-inline-start: var(--heading-border-size) solid var(--accent-color);
         position: relative;
+    }
 
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
         a.header-anchor {
             transition: opacity 0.3s ease;
             opacity: 0;
@@ -232,9 +239,6 @@
             width: var(--card-padding);
             text-align: center;
             color: var(--accent-color);
-        }
-        .header-anchor:before {
-            content: var('#');
         }
 
         &:hover,
