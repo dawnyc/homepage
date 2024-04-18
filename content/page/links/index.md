@@ -16,6 +16,10 @@ links:
     description: Official implementation of ICCV 2023 paper "Robust Object Modeling for Visual Tracking"
     website: https://github.com/dawnyc/ROMTrack
     image: github.png
+  - title: TravelingJudy - Slack Off Diary
+    description: An interesting blog recording itinerary and landscape of traveling
+    website: https://travelingjudy.github.io/
+    image: travelingjudy.png
   # - title:
   #   description:
   #   website:

@@ -16,6 +16,10 @@ links:
     description: ICCV 2023 论文《Robust Object Modeling for Visual Tracking》的开源仓库
     website: https://github.com/dawnyc/ROMTrack
     image: github.png
+  - title: TravelingJudy - 摸鱼日记
+    description: 一个有趣的博客，记录了旅行的行程和风景
+    website: https://travelingjudy.github.io/
+    image: travelingjudy.png
   # - title:
   #   description:
   #   website:
