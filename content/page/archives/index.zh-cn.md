@@ -1,5 +1,5 @@
 ---
-title: "Blogs"
+title: "博客"
 date: 2024-04-14
 layout: "archives"
 slug: "blogs"

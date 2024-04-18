@@ -1,15 +1,14 @@
 ---
-title: ICCV 2023 Paris
+title: ICCV 2023 [Paris - France]
 date: 2024-04-01 16:00:00+0800
-description: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
+description: Notes for Conference Attendance records of ICCV 2023 in Paris.
 tags: 
-    - markdown
-    - css
-    - html
-    - themes
+    - Academic Conference
+    - Travel
+    - Europe
 categories:
-    - themes
-    - syntax
+    - cv
+    - iccv
 
 comments: false
 ---
