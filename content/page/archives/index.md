@@ -1,6 +1,6 @@
 ---
 title: "Blogs"
-date: 2024-04-14
+date: 2023-06-01
 layout: "archives"
 slug: "blogs"
 menu:

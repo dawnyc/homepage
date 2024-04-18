@@ -1,6 +1,6 @@
 ---
 title: "Biography"
-date: 2024-04-14
+date: 2023-06-01
 layout: "biography"
 slug: "biography"
 menu:
@@ -13,14 +13,14 @@ comments: false
 ---
 
 ## About Me 🆔
-I'm currently a **M.Sc.** student at [MCG Group](https://mcg.nju.edu.cn/), [Department of Computer Science and Technology](https://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/main.htm), under the supervision of [Prof. Jie Tang](https://tangjie-njucs.github.io/). I also received my **Bachelor of Science** in Computer Science and Technology from Nanjing University in June 2021.
+I'm currently a **M.Sc.** student at [MCG Group](https://mcg.nju.edu.cn/), [Department of Computer Science and Technology](https://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/main.htm), under the supervision of [Assoc. Prof. Jie Tang](https://tangjie-njucs.github.io/). I also received my **Bachelor of Science** in Computer Science and Technology from Nanjing University in June 2021.
 
 My research interests include **Computer Vision** and **Deep Learning**, recently lie in **Visual Object Tracking (VOT)**, **Multimodal Learning** and **Generative Models**.
 
 ## News 🔥
- * [ <u>2024.03.21</u> ] 📖 A [Zhihu Blog](https://zhuanlan.zhihu.com/p/662351482) is published.
- * [ <u>2023.10.18</u> ] Both [CVF](https://openaccess.thecvf.com/content/ICCV2023/papers/Cai_Robust_Object_Modeling_for_Visual_Tracking_ICCV_2023_paper.pdf) and [arXiv](https://arxiv.org/abs/2308.05140) version of **ROMTrack** are updated. This is a tracker utilizing the newly proposed object modeling paradigm, significantly improving robustness. [Code](https://github.com/dawnyc/ROMTrack) is available now.
- * [ <u>2023.07.14</u> ] 🎉 One paper, abbreviated as **ROMTrack**, is accepted by ICCV 2023.
+ * [ <u>2024.03.21</u> ] 📖 A [Zhihu Blog](https://zhuanlan.zhihu.com/p/662351482) is published to explain main ideas of the paper.
+ * [ <u>2023.10.18</u> ] 📄 Both [CVF](https://openaccess.thecvf.com/content/ICCV2023/papers/Cai_Robust_Object_Modeling_for_Visual_Tracking_ICCV_2023_paper.pdf) and [arXiv](https://arxiv.org/abs/2308.05140) version of **ROMTrack** are updated! This is a tracker utilizing the newly proposed object modeling paradigm, significantly improving robustness. [Code](https://github.com/dawnyc/ROMTrack) is available now.
+ * [ <u>2023.07.14</u> ] 🎉 Good News! One paper, abbreviated as **ROMTrack**, is accepted by ICCV 2023.
 
 ## Publications 📝
  *  <em>
@@ -58,12 +58,15 @@ My research interests include **Computer Vision** and **Deep Learning**, recentl
 ## Internships 🖥️
  * <u>2023.6 - 2023.9</u>: Machine Learning Engineer (**MLE**) - Computer Vision.
    - Alimama, Taobao & Tmall Group, Alibaba Group, Hangzhou.
+   - Mainly focus on the research and development of Multimodal & AIGC algorithms.
 
 ## Honors and Awards 🏅
- * **Outstanding Graduate Student** of Nanjing University, 2024
+ * **Outstanding Graduate Student** of Nanjing University, 2024.
  * **Tencent Scholarship**, 2024.
- * **Academic Scholarship** of Nanjing University, 2021 & 2022 & 2023.
+ * **Academic Scholarship** of Nanjing University, 
+   - 2021(*First Prize*) & 2022(*Second Prize*) & 2023(*Second Prize*).
  * **People's Scholarship** of Nanjing University, 2018 & 2019 & 2020.
+   - 2018(*Second Prize*) & 2019(*First Prize*) & 2020(*Second Prize*).
  * **Third Prize** in Jiangsu Mathematical Modeling Competition, 2019.
  * **Silver Medal** in 12th China Southeast Mathematical Olympiad, 2015.
 
