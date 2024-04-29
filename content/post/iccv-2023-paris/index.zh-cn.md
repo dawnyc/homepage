@@ -18,8 +18,8 @@ comments: false
 
 [comment]: <>
 {{< galleries >}}
-{{< gallery src="/iccv-2023-paris-photos/PudongAirport.jpg" title="浦东">}}
-{{< gallery src="/iccv-2023-paris-photos/ICCVOpeningCeremony.jpg" title="开幕式">}}
+{{< gallery src="/homepage/iccv-2023-paris-photos/PudongAirport.jpg" title="浦东">}}
+{{< gallery src="/homepage/iccv-2023-paris-photos/ICCVOpeningCeremony.jpg" title="开幕式">}}
 {{< /galleries >}}
 
-{{< video src="/iccv-2023-paris-photos/lift.mp4" autoplay="true" >}}
+{{< video src="/homepage/iccv-2023-paris-photos/lift.mp4" autoplay="true" >}}
