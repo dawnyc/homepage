@@ -20,7 +20,7 @@ icon = "github"
 [[social]]
 identifier = "googlescholar"
 name = "GoogleScholar"
-url = "https://scholar.google.cz/citations?user=WCl61vMAAAAJ&hl=zh-CN"
+url = "https://scholar.google.hk/citations?user=WCl61vMAAAAJ"
 weight = 2
 
 [social.params]
