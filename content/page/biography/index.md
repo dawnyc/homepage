@@ -13,9 +13,14 @@ comments: false
 ---
 
 ## About Me 🆔
-I'm currently a **M.Sc.** student at [MCG Group](https://mcg.nju.edu.cn/), [Department of Computer Science and Technology](https://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/main.htm), under the supervision of [Assoc. Prof. Jie Tang](https://tangjie-njucs.github.io/). I also received my **Bachelor of Science** in Computer Science and Technology from Nanjing University in June 2021.
+[![Homepage](https://img.shields.io/badge/Yidong%20Cai-Homepage-%234994c4?style=flat-square)](https://dawnyc.github.io/homepage/)
+[![Google Scholar](https://img.shields.io/endpoint?url=https://google-scholar-badge.replit.app/citations?user=WCl61vMAAAAJ&style=flat-square)](https://scholar.google.com.hk/citations?user=WCl61vMAAAAJ)
+[![GitHub](https://img.shields.io/github/followers/dawnyc?label=follow&style=social)](https://github.com/dawnyc)
+[![Gmail](https://img.shields.io/badge/-Yidong_Cai-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:dawnyc1123@gmail.com)
 
-My research interests include **Computer Vision** and **Deep Learning**, recently lie in **Visual Object Tracking (VOT)**, **Multimodal Learning** and **Generative Models**.
+I'm currently a **Machine Learning Engineer** at ByteDance, mainly on duty with research and development of Vision-Language Models for e-commerce safety. I received my **Master of Science in Engineering** in June 2024 at [MCG Group](https://mcg.nju.edu.cn/), [Department of Computer Science and Technology](https://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/main.htm), under the supervision of [Assoc. Prof. Jie Tang](https://tangjie-njucs.github.io/). I also received my **Bachelor of Science** in Computer Science and Technology from Nanjing University in June 2021.
+
+My research interests include **Computer Vision**, **Multimodal Deep Learning** and **Generative Deep Learning**, recently lie in **Visual Object Tracking (VOT)**, **Vision-Language Models** and **Generative Models**.
 
 ## News 🔥
  * [ <u>2024.03.21</u> ] 📖 A [Zhihu Blog](https://zhuanlan.zhihu.com/p/662351482) is published to explain main ideas of the paper.
@@ -41,13 +46,16 @@ My research interests include **Computer Vision** and **Deep Learning**, recentl
 
 ## Services 💼
  * <em>**Journal Review**</em> :
+   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+   - IEEE Transactions on Multimedia (TMM)
+   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
    - Journal of Visual Communication and Image Representation (JVCIR)
  * <em>**Teaching Assistant**</em> :
    - Introduction to Computer System (ICS)
    - Multimedia Technology
 
 ## Educations 🎓
- * <u>2021.9 - Present</u>: M.Sc., Nanjing University, Nanjing.
+ * <u>2021.9 - 2024.6</u>: M.Sc., Nanjing University, Nanjing.
    - Department of Computer Science and Technology.
  * <u>2017.9 - 2021.6</u>: B.Sc., Nanjing University, Nanjing.
    - Department of Computer Science and Technology.
@@ -55,8 +63,11 @@ My research interests include **Computer Vision** and **Deep Learning**, recentl
  * <u>2012.9 - 2017.6</u>: Tianyi High School, Jiangsu.
    - Both junior school and senior school.
 
-## Internships 🖥️
- * <u>2023.6 - 2023.9</u>: Machine Learning Engineer (**MLE**) - Computer Vision.
+## Experiences 🖥️
+ * <u>2024.7 - Present</u>: Machine Learning Engineer (**MLE**) - Multimodal.
+   - Governance and Experience, Global E-commerce, Data, ByteDance, Shanghai.
+   - Mainly focus on the research and development of Vision-Language Models for e-commerce safety.
+ * <u>2023.6 - 2023.9</u>: Machine Learning Engineer (**MLE**) Intern - Computer Vision.
    - Alimama, Taobao & Tmall Group, Alibaba Group, Hangzhou.
    - Mainly focus on the research and development of Multimodal & AIGC algorithms.
 
@@ -64,9 +75,9 @@ My research interests include **Computer Vision** and **Deep Learning**, recentl
  * **Outstanding Graduate Student** of Nanjing University, 2024.
  * **Tencent Scholarship**, 2024.
  * **Academic Scholarship** of Nanjing University, 
-   - 2021(*First Prize*) & 2022(*Second Prize*) & 2023(*Second Prize*).
+   - 2021 (*First Prize*) & 2022 (*Second Prize*) & 2023 (*Second Prize*).
  * **People's Scholarship** of Nanjing University, 2018 & 2019 & 2020.
-   - 2018(*Second Prize*) & 2019(*First Prize*) & 2020(*Second Prize*).
+   - 2018 (*Second Prize*) & 2019 (*First Prize*) & 2020 (*Second Prize*).
  * **Third Prize** in Jiangsu Mathematical Modeling Competition, 2019.
  * **Silver Medal** in 12th China Southeast Mathematical Olympiad, 2015.
 
