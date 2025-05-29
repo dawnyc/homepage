@@ -12,11 +12,13 @@ menu:
 comments: false
 ---
 
-## About Me 🆔
+## About Me 🪪
 [![Homepage](https://img.shields.io/badge/Yidong%20Cai-Homepage-%234994c4?style=flat-square)](https://dawnyc.github.io/homepage/)
-[![Google Scholar](https://img.shields.io/endpoint?url=https://google-scholar-badge.replit.app/citations?user=WCl61vMAAAAJ&style=flat-square)](https://scholar.google.com.hk/citations?user=WCl61vMAAAAJ)
+[![Google Scholar](https://img.shields.io/badge/Yidong%20Cai-Google%20Scholar-%23d996c4?style=flat-square)](https://scholar.google.com/citations?hl=en&user=WCl61vMAAAAJ)
 [![GitHub](https://img.shields.io/github/followers/dawnyc?label=follow&style=social)](https://github.com/dawnyc)
 [![Gmail](https://img.shields.io/badge/-Yidong_Cai-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:dawnyc1123@gmail.com)
+<!-- [![Google Scholar](https://img.shields.io/endpoint?url=https://google-scholar-badge.replit.app/citations?user=WCl61vMAAAAJ&style=flat-square)](https://scholar.google.com/citations?hl=en&user=WCl61vMAAAAJ) -->
+<!-- [![Google Scholar](https://img.shields.io/endpoint?url=https://google-scholar-badge.vercel.app/citations?user=WCl61vMAAAAJ&style=flat-square)](https://scholar.google.com/citations?hl=en&user=WCl61vMAAAAJ) -->
 
 I'm currently a **Machine Learning Engineer** at ByteDance, mainly on duty with research and development of Vision-Language Models for e-commerce safety. I received my **Master of Science in Engineering** in June 2024 at [MCG Group](https://mcg.nju.edu.cn/), [Department of Computer Science and Technology](https://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/main.htm), under the supervision of [Assoc. Prof. Jie Tang](https://tangjie-njucs.github.io/). I also received my **Bachelor of Science** in Computer Science and Technology from Nanjing University in June 2021.
 

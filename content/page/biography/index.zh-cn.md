@@ -12,11 +12,13 @@ menu:
 comments: false
 ---
 
-## 关于我 🆔
+## 关于我 🪪
 [![Homepage](https://img.shields.io/badge/Yidong%20Cai-Homepage-%234994c4?style=flat-square)](https://dawnyc.github.io/homepage/)
-[![Google Scholar](https://img.shields.io/endpoint?url=https://google-scholar-badge.replit.app/citations?user=WCl61vMAAAAJ&style=flat-square)](https://scholar.google.com.hk/citations?user=WCl61vMAAAAJ)
+[![Google Scholar](https://img.shields.io/badge/Yidong%20Cai-Google%20Scholar-%23d996c4?style=flat-square)](https://scholar.google.com/citations?hl=en&user=WCl61vMAAAAJ)
 [![GitHub](https://img.shields.io/github/followers/dawnyc?label=follow&style=social)](https://github.com/dawnyc)
 [![Gmail](https://img.shields.io/badge/-Yidong_Cai-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:dawnyc1123@gmail.com)
+<!-- [![Google Scholar](https://img.shields.io/endpoint?url=https://google-scholar-badge.replit.app/citations?user=WCl61vMAAAAJ&style=flat-square)](https://scholar.google.com.hk/citations?user=WCl61vMAAAAJ) -->
+<!-- [![Google Scholar](https://img.shields.io/endpoint?url=https://google-scholar-badge.vercel.app/citations?user=WCl61vMAAAAJ&style=flat-square)](https://scholar.google.com/citations?hl=en&user=WCl61vMAAAAJ) -->
 
 我目前是一名多模态算法工程师（@ByteDance），主要负责电商平台安全治理相关的多模态大模型的研究与应用。我于2024年6月取得**工学硕士**学位并毕业于[南京大学](https://www.nju.edu.cn/main.htm)-[计算机科学与技术系](https://cs.nju.edu.cn/)-[媒体计算研究组](https://mcg.nju.edu.cn/)，导师是[唐杰副教授](https://tangjie-njucs.github.io/)。我于2021年6月本科毕业于南京大学计算机科学与技术系，获得**理学学士**学位。
 
