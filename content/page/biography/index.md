@@ -19,17 +19,34 @@ comments: false
 [![Gmail](https://img.shields.io/badge/-Yidong_Cai-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:dawnyc1123@gmail.com)
 <!-- [![Google Scholar](https://img.shields.io/endpoint?url=https://google-scholar-badge.replit.app/citations?user=WCl61vMAAAAJ&style=flat-square)](https://scholar.google.com/citations?hl=en&user=WCl61vMAAAAJ) -->
 <!-- [![Google Scholar](https://img.shields.io/endpoint?url=https://google-scholar-badge.vercel.app/citations?user=WCl61vMAAAAJ&style=flat-square)](https://scholar.google.com/citations?hl=en&user=WCl61vMAAAAJ) -->
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=dawnyc&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> -->
 
 I'm currently a **Machine Learning Engineer** at ByteDance, mainly on duty with research and development of Vision-Language Models for e-commerce safety. I received my **Master of Science in Engineering** in June 2024 at [MCG Group](https://mcg.nju.edu.cn/), [Department of Computer Science and Technology](https://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/main.htm), under the supervision of [Assoc. Prof. Jie Tang](https://tangjie-njucs.github.io/). I also received my **Bachelor of Science** in Computer Science and Technology from Nanjing University in June 2021.
 
 My research interests include **Computer Vision**, **Multimodal Deep Learning** and **Generative Deep Learning**, recently lie in **Visual Object Tracking (VOT)**, **Vision-Language Models** and **Generative Models**.
 
 ## News 🔥
+ * [ <u>2025.06.12</u> ] 🤗 We propose **MERIT**, <u>the first multilingual dataset for interleaved multi-condition semantic retrieval</u>, comprising 320,000 queries with 135,000 products in 5 languages while covering 7 distinct product categories. Meanwhile, a novel fine-tuning framework named **Coral** is constructed to adapt pre-trained MLLMs for embedding extraction. [arXiv](https://arxiv.org/abs/2506.03144) and [Project Page](https://merit-2025.github.io/) is available now.
  * [ <u>2024.03.21</u> ] 📖 A [Zhihu Blog](https://zhuanlan.zhihu.com/p/662351482) is published to explain main ideas of the paper.
  * [ <u>2023.10.18</u> ] 📄 Both [CVF](https://openaccess.thecvf.com/content/ICCV2023/papers/Cai_Robust_Object_Modeling_for_Visual_Tracking_ICCV_2023_paper.pdf) and [arXiv](https://arxiv.org/abs/2308.05140) version of **ROMTrack** are updated! This is a tracker utilizing the newly proposed object modeling paradigm, significantly improving robustness. [Code](https://github.com/dawnyc/ROMTrack) is available now.
  * [ <u>2023.07.14</u> ] 🎉 Good News! One paper, abbreviated as **ROMTrack**, is accepted by ICCV 2023.
 
 ## Publications 📝
+ *  <em>
+      <strong>
+        <a href="https://arxiv.org/abs/2506.03144" target="_blank" rel="noopener noreferrer">
+            <font color=DarkSalmon>MERIT: Multilingual Semantic Retrieval with Interleaved Multi-Condition Query</font>
+            <svg class="external-link-icon" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15"><path fill="#1E88E5" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path><polygon fill="#1E88E5" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg>
+        </a>
+      </strong>
+    </em>
+    <br>
+    Wei Chow, Yuan Gao, Linfeng Li, Xian Wang, Qi Xu, Hang Song, Lingdong Kong, Ran Zhou, Yi Zeng, <u><strong>Yidong Cai</strong></u>, Botian Jiang, Shilin Xu, Jiajun Zhang, Minghui Qiu, Xiangtai Li, Tianshu Yang, Siliang Tang, Juncheng Li.
+    <br>
+    ➡️ Dataset and Benchmark, 2025.
+    <br>
+    <a href="https://arxiv.org/abs/2506.03144"><img src="https://img.shields.io/badge/arXiv-2506.03144-b31b1b.svg?style=flat-square" alt="Arxiv-2506.03144"></a>
+    <a href="https://merit-2025.github.io/"><img src=https://img.shields.io/badge/MERIT-Project%20Page-9cf?style=flat-square"></a>
  *  <em>
       <strong>
         <a href="https://arxiv.org/abs/2308.05140" target="_blank" rel="noopener noreferrer">
@@ -41,17 +58,20 @@ My research interests include **Computer Vision**, **Multimodal Deep Learning** 
     <br>
     <u><strong>Yidong Cai</strong></u>, Jie Liu, Jie Tang, Gangshan Wu. 
     <br>
-    In IEEE International Conference on Computer Vision (<strong>ICCV</strong>), 2023.
+    ➡️ IEEE International Conference on Computer Vision (<strong>ICCV</strong>), 2023.
     <br>
-    <a href="https://arxiv.org/abs/2308.05140"><img src="https://img.shields.io/badge/arXiv-2403.16848-b31b1b.svg?style=flat-square" alt="Arxiv-2308.05140"></a>
+    <a href="https://arxiv.org/abs/2308.05140"><img src="https://img.shields.io/badge/arXiv-2308.05140-b31b1b.svg?style=flat-square" alt="Arxiv-2308.05140"></a>
     <a href="https://github.com/dawnyc/ROMTrack"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dawnyc/ROMTrack?style=flat-square&amp;logo=github&amp;label=GitHub Stars&amp;labelColor=black"></a>
 
-## Services 💼
+## Academic Services 💼
  * <em>**Journal Review**</em> :
    - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
    - IEEE Transactions on Multimedia (TMM)
    - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+   - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)
    - Journal of Visual Communication and Image Representation (JVCIR)
+ * <em>**Conference Review**</em> :
+   - IEEE International Conference on Computer Vision (ICCV)
  * <em>**Teaching Assistant**</em> :
    - Introduction to Computer System (ICS)
    - Multimedia Technology
@@ -59,6 +79,7 @@ My research interests include **Computer Vision**, **Multimodal Deep Learning** 
 ## Educations 🎓
  * <u>2021.9 - 2024.6</u>: M.Sc., Nanjing University, Nanjing.
    - Department of Computer Science and Technology.
+   - [MCG Group](https://mcg.nju.edu.cn/), supervised by [Assoc. Prof. Jie Tang](https://tangjie-njucs.github.io/), [Prof. Liming Wang](https://wanglimin.github.io/) and [Prof. Gangshan Wu](https://mcg.nju.edu.cn/member/gswu/index.html).
  * <u>2017.9 - 2021.6</u>: B.Sc., Nanjing University, Nanjing.
    - Department of Computer Science and Technology.
    - <u>2020.9 - 2021.6</u>: Research on Visual Object Tracking, supervised by [Prof. Liming Wang](https://wanglimin.github.io/).
