@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>蔡益东</title><link>https://dawnyc.github.io/homepage/zh-cn/</link><description>Recent content on 蔡益东</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><atom:link href="https://dawnyc.github.io/homepage/zh-cn/index.xml" rel="self" type="application/rss+xml"/><item><title>旅行日记</title><link>https://dawnyc.github.io/homepage/zh-cn/p/%E6%97%85%E8%A1%8C%E6%97%A5%E8%AE%B0/</link><pubDate>Mon, 01 Apr 2024 08:00:00 +0800</pubDate><guid>https://dawnyc.github.io/homepage/zh-cn/p/%E6%97%85%E8%A1%8C%E6%97%A5%E8%AE%B0/</guid><description>&lt;img src="https://dawnyc.github.io/homepage/p/travel-diary/cover.jpg" alt="Featured image of post 旅行日记" />&lt;p>陆续更新中&amp;hellip;&lt;/p></description></item><item><title>2023年国际计算机视觉大会 【法国 - 巴黎】</title><link>https://dawnyc.github.io/homepage/zh-cn/p/2023%E5%B9%B4%E5%9B%BD%E9%99%85%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E5%A4%A7%E4%BC%9A-%E6%B3%95%E5%9B%BD-%E5%B7%B4%E9%BB%8E/</link><pubDate>Sun, 01 Oct 2023 08:00:00 +0800</pubDate><guid>https://dawnyc.github.io/homepage/zh-cn/p/2023%E5%B9%B4%E5%9B%BD%E9%99%85%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E5%A4%A7%E4%BC%9A-%E6%B3%95%E5%9B%BD-%E5%B7%B4%E9%BB%8E/</guid><description>&lt;img src="https://dawnyc.github.io/homepage/p/iccv-2023-paris-france/cover.jpg" alt="Featured image of post 2023年国际计算机视觉大会 【法国 - 巴黎】" />&lt;p>【2023.09.30 ~ 2023.10.08】&lt;/p>
+&lt;!DOCTYPE html>
+&lt;html lang="en">
+&lt;head>
+&lt;meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
+&lt;script src="https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js">&lt;/script>
+&lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nanogallery2@3.0.5/dist/css/nanogallery2.min.css">
+&lt;script src="https://cdn.jsdelivr.net/npm/nanogallery2@3.0.5/dist/jquery.nanogallery2.min.js">&lt;/script>
+&lt;/head>
+&lt;body>
+&lt;div data-nanogallery2='{
+"thumbnailDisplayTransition": "none",
+"thumbnailDisplayTransitionDuration": 500,
+"thumbnailDisplayInterval": 30,
+"galleryDisplayTransition": "none",
+"galleryDisplayTransitionDuration": 500,
+"galleryDisplayMode": "rows",
+"thumbnailDisplayOutsideScreen": "false",
+"eventsDebounceDelay": 10,
+"thumbnailL1BorderHorizontal": 0,
+"thumbnailL1BorderVertical": 0,
+"thumbnailLabel": {
+"titleFontSize": "0.6em"
+},
+"thumbnailHoverEffect2": "image_scale_1.00_1.10|label_backgroundColor_rgba(0,0,0,0)_rgba(255,255,255,0)",
+"galleryTheme": {
+"thumbnail": {
+"borderRadius": "8px"
+}
+},
+"thumbnailToolbarImage": {
+"topLeft": "",
+"topRight": "",
+"bottomLeft": "",
+"bottomRight": ""
+},
+"viewerToolbar": {
+"display": true,
+"standard": "label"
+},
+"viewerTools": {
+"topLeft": "pageCounter, playPauseButton",
+"topRight": "downloadButton, rotateLeft, zoomButton, fullscreenButton, closeButton"
+},
+"viewerGalleryTWidth": 40,
+"viewerGalleryTHeight": 40
+}'>
+&lt;a href="https://dawnyc.github.io/homepage/homepage/iccv-2023-paris-photos/PudongAirport.jpg" data-ngThumb="/homepage/iccv-2023-paris-photos/PudongAirport.jpg">浦东&lt;/a>
+&lt;a href="https://dawnyc.github.io/homepage/homepage/iccv-2023-paris-photos/ICCVOpeningCeremony.jpg" data-ngThumb="/homepage/iccv-2023-paris-photos/ICCVOpeningCeremony.jpg">开幕式&lt;/a>
+&lt;/div>
+&lt;/body>
+&lt;/html>
+&lt;div class="video-wrapper">
+&lt;video
+controls
+src="https://dawnyc.github.io/homepage/homepage/iccv-2023-paris-photos/lift.mp4"
+autoplay
+>
+&lt;p>
+Your browser doesn't support HTML5 video. Here is a
+&lt;a href="https://dawnyc.github.io/homepage/homepage/iccv-2023-paris-photos/lift.mp4">link to the video&lt;/a> instead.
+&lt;/p>
+&lt;/video>
+&lt;/div></description></item><item><title>博客</title><link>https://dawnyc.github.io/homepage/zh-cn/blogs/</link><pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate><guid>https://dawnyc.github.io/homepage/zh-cn/blogs/</guid><description/></item><item><title>个人档案</title><link>https://dawnyc.github.io/homepage/zh-cn/biography/</link><pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate><guid>https://dawnyc.github.io/homepage/zh-cn/biography/</guid><description>&lt;h2 id="关于我-" tabindex="-1">
+&lt;a href="#%e5%85%b3%e4%ba%8e%e6%88%91-" class="header-anchor" aria-hidden="true">#&lt;/a>
+关于我 🪪
+&lt;/h2>&lt;p>&lt;a class="link" href="https://dawnyc.github.io/homepage/" target="_blank" rel="noopener"
+>&lt;img src="https://img.shields.io/badge/Yidong%20Cai-Homepage-%234994c4?style=flat-square"
+loading="lazy"
+alt="Homepage"
+>&lt;/a>
+&lt;a class="link" href="https://scholar.google.com/citations?hl=en&amp;amp;user=WCl61vMAAAAJ" target="_blank" rel="noopener"
+>&lt;img src="https://img.shields.io/badge/Yidong%20Cai-Google%20Scholar-%23d996c4?style=flat-square"
+loading="lazy"
+alt="Google Scholar"
+>&lt;/a>
+&lt;a class="link" href="https://github.com/dawnyc" target="_blank" rel="noopener"
+>&lt;img src="https://img.shields.io/github/followers/dawnyc?label=follow&amp;amp;style=social"
+loading="lazy"
+alt="GitHub"
+>&lt;/a>
+&lt;a class="link" href="mailto:dawnyc1123@gmail.com" >&lt;img src="https://img.shields.io/badge/-Yidong_Cai-c14438?style=flat-square&amp;amp;logo=Gmail&amp;amp;logoColor=white"
+loading="lazy"
+alt="Gmail"
+>&lt;/a>&lt;/p>
+&lt;!-- [![Google Scholar](https://img.shields.io/endpoint?url=https://google-scholar-badge.replit.app/citations?user=WCl61vMAAAAJ&amp;style=flat-square)](https://scholar.google.com.hk/citations?user=WCl61vMAAAAJ) -->
+&lt;!-- [![Google Scholar](https://img.shields.io/endpoint?url=https://google-scholar-badge.vercel.app/citations?user=WCl61vMAAAAJ&amp;style=flat-square)](https://scholar.google.com/citations?hl=en&amp;user=WCl61vMAAAAJ) -->
+&lt;p>我目前是一名多模态算法工程师（@ByteDance），主要负责电商平台安全治理相关的多模态大模型的研究与应用。我于2024年6月取得&lt;strong>工学硕士&lt;/strong>学位并毕业于&lt;a class="link" href="https://www.nju.edu.cn/main.htm" target="_blank" rel="noopener"
+>南京大学&lt;/a>-&lt;a class="link" href="https://cs.nju.edu.cn/" target="_blank" rel="noopener"
+>计算机科学与技术系&lt;/a>-&lt;a class="link" href="https://mcg.nju.edu.cn/" target="_blank" rel="noopener"
+>媒体计算研究组&lt;/a>，导师是&lt;a class="link" href="https://tangjie-njucs.github.io/" target="_blank" rel="noopener"
+>唐杰副教授&lt;/a>。我于2021年6月本科毕业于南京大学计算机科学与技术系，获得&lt;strong>理学学士&lt;/strong>学位。&lt;/p>
+&lt;p>我的研究方向主要是&lt;strong>计算机视觉&lt;/strong>、&lt;strong>多模态深度学习&lt;/strong>和&lt;strong>生成式深度学习&lt;/strong>，近期主要关注&lt;strong>视觉目标跟踪（VOT）&lt;/strong>、&lt;strong>视觉语言模型&lt;/strong>和&lt;strong>生成式模型&lt;/strong>。&lt;/p>
+&lt;h2 id="最新消息-" tabindex="-1">
+&lt;a href="#%e6%9c%80%e6%96%b0%e6%b6%88%e6%81%af-" class="header-anchor" aria-hidden="true">#&lt;/a>
+最新消息 🔥
+&lt;/h2>&lt;ul>
+&lt;li>[ &lt;u>2025.06.12&lt;/u> ] 🤗 我们提出了&lt;strong>MERIT&lt;/strong>，&lt;/u>第一个用于多条件交错语义检索的多语言数据集&lt;/u>，共包含 320,000 条查询和 135,000 个商品，覆盖了 5 种语言（英语、泰语、印尼语、越南语、马来语）和 7 个不同的商品类别（服装、电子产品、食品、家具、包、珠宝等）。同时，我们还构建了一个新的微调框架&lt;strong>Coral&lt;/strong>，以适配经过预训练的多模态大模型进行表征提取。&lt;a class="link" href="https://arxiv.org/abs/2506.03144" target="_blank" rel="noopener"
+>arXiv&lt;/a> 预印版论文和 &lt;a class="link" href="https://merit-2025.github.io/" target="_blank" rel="noopener"
+>项目主页&lt;/a> 已经公布。&lt;/li>
+&lt;li>[ &lt;u>2024.03.21&lt;/u> ] 📖 我发布了一篇&lt;a class="link" href="https://zhuanlan.zhihu.com/p/662351482" target="_blank" rel="noopener"
+>知乎博客&lt;/a>，讲解了论文的主要思路。&lt;/li>
+&lt;li>[ &lt;u>2023.10.18&lt;/u> ] 📄 &lt;a class="link" href="https://openaccess.thecvf.com/content/ICCV2023/papers/Cai_Robust_Object_Modeling_for_Visual_Tracking_ICCV_2023_paper.pdf" target="_blank" rel="noopener"
+>CVF&lt;/a> 正式版论文和 &lt;a class="link" href="https://arxiv.org/abs/2308.05140" target="_blank" rel="noopener"
+>arXiv&lt;/a> 预印版论文均已公布！ &lt;strong>ROMTrack&lt;/strong> 跟踪器采用了新提出的目标建模范式，显著提高了跟踪鲁棒性。 &lt;a class="link" href="https://github.com/dawnyc/ROMTrack" target="_blank" rel="noopener"
+>代码&lt;/a>已经开源。&lt;/li>
+&lt;li>[ &lt;u>2023.07.14&lt;/u> ] 🎉 我在视觉目标跟踪（VOT）领域的研究工作 &lt;strong>ROMTrack&lt;/strong> 被 ICCV 2023 接收！&lt;/li>
+&lt;/ul>
+&lt;h2 id="论文-" tabindex="-1">
+&lt;a href="#%e8%ae%ba%e6%96%87-" class="header-anchor" aria-hidden="true">#&lt;/a>
+论文 📝
+&lt;/h2>&lt;ul>
+&lt;li>
+&lt;em>
+&lt;strong>
+&lt;a href="https://arxiv.org/abs/2506.03144" target="_blank" rel="noopener noreferrer">
+&lt;font color=DarkSalmon>MERIT: Multilingual Semantic Retrieval with Interleaved Multi-Condition Query&lt;/font>
+&lt;svg class="external-link-icon" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15">&lt;path fill="#1E88E5" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z">&lt;/path>&lt;polygon fill="#1E88E5" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9">&lt;/polygon>&lt;/svg>
+&lt;/a>
+&lt;/strong>
+&lt;/em>
+&lt;br>
+Wei Chow, Yuan Gao, Linfeng Li, Xian Wang, Qi Xu, Hang Song, Lingdong Kong, Ran Zhou, Yi Zeng, &lt;u>&lt;strong>Yidong Cai&lt;/strong>&lt;/u>, Botian Jiang, Shilin Xu, Jiajun Zhang, Minghui Qiu, Xiangtai Li, Tianshu Yang, Siliang Tang, Juncheng Li.
+&lt;br>
+➡️ Dataset and Benchmark, 2025.
+&lt;br>
+&lt;a href="https://arxiv.org/abs/2506.03144">&lt;img src="https://img.shields.io/badge/arXiv-2506.03144-b31b1b.svg?style=flat-square" alt="Arxiv-2506.03144">&lt;/a>
+&lt;a href="https://merit-2025.github.io/">&lt;img src=https://img.shields.io/badge/MERIT-Project%20Page-9cf?style=flat-square">&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;em>
+&lt;strong>
+&lt;a href="https://arxiv.org/abs/2308.05140" target="_blank" rel="noopener noreferrer">
+&lt;font color=DarkSalmon>Robust Object Modeling for Visual Tracking&lt;/font>
+&lt;svg class="external-link-icon" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15">&lt;path fill="#1E88E5" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z">&lt;/path>&lt;polygon fill="#1E88E5" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9">&lt;/polygon>&lt;/svg>
+&lt;/a>
+&lt;/strong>
+&lt;/em>
+&lt;br>
+&lt;u>&lt;strong>Yidong Cai&lt;/strong>&lt;/u>, Jie Liu, Jie Tang, Gangshan Wu.
+&lt;br>
+➡️ IEEE International Conference on Computer Vision (&lt;strong>ICCV&lt;/strong>), 2023.
+&lt;br>
+&lt;a href="https://arxiv.org/abs/2308.05140">&lt;img src="https://img.shields.io/badge/arXiv-2308.05140-b31b1b.svg?style=flat-square" alt="Arxiv-2308.05140">&lt;/a>
+&lt;a href="https://github.com/dawnyc/ROMTrack">&lt;img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dawnyc/ROMTrack?style=flat-square&amp;amp;logo=github&amp;amp;label=GitHub Stars&amp;amp;labelColor=black">&lt;/a>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="学术服务-" tabindex="-1">
+&lt;a href="#%e5%ad%a6%e6%9c%af%e6%9c%8d%e5%8a%a1-" class="header-anchor" aria-hidden="true">#&lt;/a>
+学术服务 💼
+&lt;/h2>&lt;ul>
+&lt;li>&lt;em>&lt;strong>期刊审稿&lt;/strong>&lt;/em> :
+&lt;ul>
+&lt;li>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)&lt;/li>
+&lt;li>IEEE Transactions on Multimedia (TMM)&lt;/li>
+&lt;li>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)&lt;/li>
+&lt;li>ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)&lt;/li>
+&lt;li>Journal of Visual Communication and Image Representation (JVCIR)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;em>&lt;strong>会议审稿&lt;/strong>&lt;/em> :
+&lt;ul>
+&lt;li>IEEE International Conference on Computer Vision (ICCV)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;em>&lt;strong>课程助教&lt;/strong>&lt;/em> :
+&lt;ul>
+&lt;li>计算机系统基础（ICS）&lt;/li>
+&lt;li>多媒体技术&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="教育经历-" tabindex="-1">
+&lt;a href="#%e6%95%99%e8%82%b2%e7%bb%8f%e5%8e%86-" class="header-anchor" aria-hidden="true">#&lt;/a>
+教育经历 🎓
+&lt;/h2>&lt;ul>
+&lt;li>&lt;u>2021.9 - 2024.6&lt;/u>：工学硕士，南京大学。
+&lt;ul>
+&lt;li>计算机科学与技术系，媒体计算研究组。&lt;/li>
+&lt;li>&lt;a class="link" href="https://mcg.nju.edu.cn/" target="_blank" rel="noopener"
+>媒体计算研究组&lt;/a>，由&lt;a class="link" href="https://tangjie-njucs.github.io/" target="_blank" rel="noopener"
+>唐杰副教授&lt;/a>、&lt;a class="link" href="https://wanglimin.github.io/" target="_blank" rel="noopener"
+>王利民教授&lt;/a>和&lt;a class="link" href="https://mcg.nju.edu.cn/member/gswu/index.html" target="_blank" rel="noopener"
+>武港山教授&lt;/a>进行指导。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;u>2017.9 - 2021.6&lt;/u>：理学学士，南京大学。
+&lt;ul>
+&lt;li>计算机科学与技术系。&lt;/li>
+&lt;li>&lt;u>2020.9 - 2021.6&lt;/u>：在&lt;a class="link" href="https://wanglimin.github.io/" target="_blank" rel="noopener"
+>王利民教授&lt;/a>的指导下，对计算机视觉领域的视觉目标跟踪任务展开研究。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;u>2012.9 - 2017.6&lt;/u>：江苏省天一中学。
+&lt;ul>
+&lt;li>初中和高中。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="工作经历-" tabindex="-1">
+&lt;a href="#%e5%b7%a5%e4%bd%9c%e7%bb%8f%e5%8e%86-" class="header-anchor" aria-hidden="true">#&lt;/a>
+工作经历 🖥️
+&lt;/h2>&lt;ul>
+&lt;li>&lt;u>2024.7 - 至今&lt;/u>：多模态算法工程师。
+&lt;ul>
+&lt;li>字节跳动 - Data - 国际化电商 - 治理与体验，上海市&lt;/li>
+&lt;li>主要致力于国际化电商平台的商品内容安全治理相关的多模态大模型的研究与应用工作。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;u>2023.6 - 2023.9&lt;/u>：计算机视觉算法工程师实习生。
+&lt;ul>
+&lt;li>阿里集团 - 淘天集团 - 阿里妈妈，杭州市。&lt;/li>
+&lt;li>主要致力于多模态算法和 AIGC 算法的研发与优化工作。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="荣誉与奖项-" tabindex="-1">
+&lt;a href="#%e8%8d%a3%e8%aa%89%e4%b8%8e%e5%a5%96%e9%a1%b9-" class="header-anchor" aria-hidden="true">#&lt;/a>
+荣誉与奖项 🏅
+&lt;/h2>&lt;ul>
+&lt;li>2023~2024年，南京大学&lt;strong>优秀研究生&lt;/strong>。&lt;/li>
+&lt;li>2023~2024年，&lt;strong>腾讯奖学金&lt;/strong>。&lt;/li>
+&lt;li>2021/2022/2023年，南京大学&lt;strong>学业奖学金&lt;/strong>，分别获得一等奖/二等奖/二等奖。&lt;/li>
+&lt;li>2018/2019/2020年，南京大学&lt;strong>人民奖学金&lt;/strong>，分别获得二等奖/一等奖/二等奖。&lt;/li>
+&lt;li>2019年，全国大学生数学建模竞赛江苏赛区&lt;strong>三等奖&lt;/strong>。&lt;/li>
+&lt;li>2015年，第 12 届中国东南地区数学奥林匹克&lt;strong>银牌&lt;/strong>。&lt;/li>
+&lt;/ul>
+&lt;h2 id="联系方式-" tabindex="-1">
+&lt;a href="#%e8%81%94%e7%b3%bb%e6%96%b9%e5%bc%8f-" class="header-anchor" aria-hidden="true">#&lt;/a>
+联系方式 📫
+&lt;/h2>&lt;ul>
+&lt;li>邮件：
+&lt;ul>
+&lt;li>谷歌邮箱: &lt;a class="link" href="mailto:dawnyc1123@gmail.com" >dawnyc1123@gmail.com&lt;/a>&lt;/li>
+&lt;li>教育邮箱: &lt;a class="link" href="mailto:yidong_cai@smail.nju.edu.cn" >yidong_cai@smail.nju.edu.cn&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>链接</title><link>https://dawnyc.github.io/homepage/zh-cn/links/</link><pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate><guid>https://dawnyc.github.io/homepage/zh-cn/links/</guid><description>&lt;p>友情链接如下所示 ❤️ ：&lt;/p></description></item><item><title>搜索</title><link>https://dawnyc.github.io/homepage/zh-cn/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dawnyc.github.io/homepage/zh-cn/search/</guid><description/></item></channel></rss>

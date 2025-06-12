@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>国际计算机视觉大会 on 蔡益东</title><link>https://dawnyc.github.io/homepage/zh-cn/categories/iccv/</link><description>Recent content in 国际计算机视觉大会 on 蔡益东</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><atom:link href="https://dawnyc.github.io/homepage/zh-cn/categories/iccv/index.xml" rel="self" type="application/rss+xml"/><item><title>2023年国际计算机视觉大会 【法国 - 巴黎】</title><link>https://dawnyc.github.io/homepage/zh-cn/p/2023%E5%B9%B4%E5%9B%BD%E9%99%85%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E5%A4%A7%E4%BC%9A-%E6%B3%95%E5%9B%BD-%E5%B7%B4%E9%BB%8E/</link><pubDate>Sun, 01 Oct 2023 08:00:00 +0800</pubDate><guid>https://dawnyc.github.io/homepage/zh-cn/p/2023%E5%B9%B4%E5%9B%BD%E9%99%85%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E5%A4%A7%E4%BC%9A-%E6%B3%95%E5%9B%BD-%E5%B7%B4%E9%BB%8E/</guid><description>&lt;img src="https://dawnyc.github.io/homepage/p/iccv-2023-paris-france/cover.jpg" alt="Featured image of post 2023年国际计算机视觉大会 【法国 - 巴黎】" />&lt;p>【2023.09.30 ~ 2023.10.08】&lt;/p>
+&lt;!DOCTYPE html>
+&lt;html lang="en">
+&lt;head>
+&lt;meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
+&lt;script src="https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js">&lt;/script>
+&lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nanogallery2@3.0.5/dist/css/nanogallery2.min.css">
+&lt;script src="https://cdn.jsdelivr.net/npm/nanogallery2@3.0.5/dist/jquery.nanogallery2.min.js">&lt;/script>
+&lt;/head>
+&lt;body>
+&lt;div data-nanogallery2='{
+"thumbnailDisplayTransition": "none",
+"thumbnailDisplayTransitionDuration": 500,
+"thumbnailDisplayInterval": 30,
+"galleryDisplayTransition": "none",
+"galleryDisplayTransitionDuration": 500,
+"galleryDisplayMode": "rows",
+"thumbnailDisplayOutsideScreen": "false",
+"eventsDebounceDelay": 10,
+"thumbnailL1BorderHorizontal": 0,
+"thumbnailL1BorderVertical": 0,
+"thumbnailLabel": {
+"titleFontSize": "0.6em"
+},
+"thumbnailHoverEffect2": "image_scale_1.00_1.10|label_backgroundColor_rgba(0,0,0,0)_rgba(255,255,255,0)",
+"galleryTheme": {
+"thumbnail": {
+"borderRadius": "8px"
+}
+},
+"thumbnailToolbarImage": {
+"topLeft": "",
+"topRight": "",
+"bottomLeft": "",
+"bottomRight": ""
+},
+"viewerToolbar": {
+"display": true,
+"standard": "label"
+},
+"viewerTools": {
+"topLeft": "pageCounter, playPauseButton",
+"topRight": "downloadButton, rotateLeft, zoomButton, fullscreenButton, closeButton"
+},
+"viewerGalleryTWidth": 40,
+"viewerGalleryTHeight": 40
+}'>
+&lt;a href="https://dawnyc.github.io/homepage/homepage/iccv-2023-paris-photos/PudongAirport.jpg" data-ngThumb="/homepage/iccv-2023-paris-photos/PudongAirport.jpg">浦东&lt;/a>
+&lt;a href="https://dawnyc.github.io/homepage/homepage/iccv-2023-paris-photos/ICCVOpeningCeremony.jpg" data-ngThumb="/homepage/iccv-2023-paris-photos/ICCVOpeningCeremony.jpg">开幕式&lt;/a>
+&lt;/div>
+&lt;/body>
+&lt;/html>
+&lt;div class="video-wrapper">
+&lt;video
+controls
+src="https://dawnyc.github.io/homepage/homepage/iccv-2023-paris-photos/lift.mp4"
+autoplay
+>
+&lt;p>
+Your browser doesn't support HTML5 video. Here is a
+&lt;a href="https://dawnyc.github.io/homepage/homepage/iccv-2023-paris-photos/lift.mp4">link to the video&lt;/a> instead.
+&lt;/p>
+&lt;/video>
+&lt;/div></description></item></channel></rss>

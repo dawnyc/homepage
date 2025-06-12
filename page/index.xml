@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Yidong Cai</title><link>https://dawnyc.github.io/homepage/page/</link><description>Recent content in Pages on Yidong Cai</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dawnyc.github.io/homepage/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Biography</title><link>https://dawnyc.github.io/homepage/biography/</link><pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate><guid>https://dawnyc.github.io/homepage/biography/</guid><description>&lt;h2 id="about-me-" tabindex="-1">
+&lt;a href="#about-me-" class="header-anchor" aria-hidden="true">#&lt;/a>
+About Me 🪪
+&lt;/h2>&lt;p>&lt;a class="link" href="https://dawnyc.github.io/homepage/" target="_blank" rel="noopener"
+>&lt;img src="https://img.shields.io/badge/Yidong%20Cai-Homepage-%234994c4?style=flat-square"
+loading="lazy"
+alt="Homepage"
+>&lt;/a>
+&lt;a class="link" href="https://scholar.google.com/citations?hl=en&amp;amp;user=WCl61vMAAAAJ" target="_blank" rel="noopener"
+>&lt;img src="https://img.shields.io/badge/Yidong%20Cai-Google%20Scholar-%23d996c4?style=flat-square"
+loading="lazy"
+alt="Google Scholar"
+>&lt;/a>
+&lt;a class="link" href="https://github.com/dawnyc" target="_blank" rel="noopener"
+>&lt;img src="https://img.shields.io/github/followers/dawnyc?label=follow&amp;amp;style=social"
+loading="lazy"
+alt="GitHub"
+>&lt;/a>
+&lt;a class="link" href="mailto:dawnyc1123@gmail.com" >&lt;img src="https://img.shields.io/badge/-Yidong_Cai-c14438?style=flat-square&amp;amp;logo=Gmail&amp;amp;logoColor=white"
+loading="lazy"
+alt="Gmail"
+>&lt;/a>&lt;/p>
+&lt;!-- [![Google Scholar](https://img.shields.io/endpoint?url=https://google-scholar-badge.replit.app/citations?user=WCl61vMAAAAJ&amp;style=flat-square)](https://scholar.google.com/citations?hl=en&amp;user=WCl61vMAAAAJ) -->
+&lt;!-- [![Google Scholar](https://img.shields.io/endpoint?url=https://google-scholar-badge.vercel.app/citations?user=WCl61vMAAAAJ&amp;style=flat-square)](https://scholar.google.com/citations?hl=en&amp;user=WCl61vMAAAAJ) -->
+&lt;!-- &lt;img align="right" src="https://github-readme-stats.vercel.app/api?username=dawnyc&amp;show_icons=true&amp;icon_color=CE1D2D&amp;text_color=718096&amp;bg_color=ffffff&amp;hide_title=true" /> -->
+&lt;p>I&amp;rsquo;m currently a &lt;strong>Machine Learning Engineer&lt;/strong> at ByteDance, mainly on duty with research and development of Vision-Language Models for e-commerce safety. I received my &lt;strong>Master of Science in Engineering&lt;/strong> in June 2024 at &lt;a class="link" href="https://mcg.nju.edu.cn/" target="_blank" rel="noopener"
+>MCG Group&lt;/a>, &lt;a class="link" href="https://cs.nju.edu.cn/" target="_blank" rel="noopener"
+>Department of Computer Science and Technology&lt;/a>, &lt;a class="link" href="https://www.nju.edu.cn/main.htm" target="_blank" rel="noopener"
+>Nanjing University&lt;/a>, under the supervision of &lt;a class="link" href="https://tangjie-njucs.github.io/" target="_blank" rel="noopener"
+>Assoc. Prof. Jie Tang&lt;/a>. I also received my &lt;strong>Bachelor of Science&lt;/strong> in Computer Science and Technology from Nanjing University in June 2021.&lt;/p>
+&lt;p>My research interests include &lt;strong>Computer Vision&lt;/strong>, &lt;strong>Multimodal Deep Learning&lt;/strong> and &lt;strong>Generative Deep Learning&lt;/strong>, recently lie in &lt;strong>Visual Object Tracking (VOT)&lt;/strong>, &lt;strong>Vision-Language Models&lt;/strong> and &lt;strong>Generative Models&lt;/strong>.&lt;/p>
+&lt;h2 id="news-" tabindex="-1">
+&lt;a href="#news-" class="header-anchor" aria-hidden="true">#&lt;/a>
+News 🔥
+&lt;/h2>&lt;ul>
+&lt;li>[ &lt;u>2025.06.12&lt;/u> ] 🤗 We propose &lt;strong>MERIT&lt;/strong>, &lt;u>the first multilingual dataset for interleaved multi-condition semantic retrieval&lt;/u>, comprising 320,000 queries with 135,000 products in 5 languages while covering 7 distinct product categories. Meanwhile, a novel fine-tuning framework named &lt;strong>Coral&lt;/strong> is constructed to adapt pre-trained MLLMs for embedding extraction. &lt;a class="link" href="https://arxiv.org/abs/2506.03144" target="_blank" rel="noopener"
+>arXiv&lt;/a> and &lt;a class="link" href="https://merit-2025.github.io/" target="_blank" rel="noopener"
+>Project Page&lt;/a> is available now.&lt;/li>
+&lt;li>[ &lt;u>2024.03.21&lt;/u> ] 📖 A &lt;a class="link" href="https://zhuanlan.zhihu.com/p/662351482" target="_blank" rel="noopener"
+>Zhihu Blog&lt;/a> is published to explain main ideas of the paper.&lt;/li>
+&lt;li>[ &lt;u>2023.10.18&lt;/u> ] 📄 Both &lt;a class="link" href="https://openaccess.thecvf.com/content/ICCV2023/papers/Cai_Robust_Object_Modeling_for_Visual_Tracking_ICCV_2023_paper.pdf" target="_blank" rel="noopener"
+>CVF&lt;/a> and &lt;a class="link" href="https://arxiv.org/abs/2308.05140" target="_blank" rel="noopener"
+>arXiv&lt;/a> version of &lt;strong>ROMTrack&lt;/strong> are updated! This is a tracker utilizing the newly proposed object modeling paradigm, significantly improving robustness. &lt;a class="link" href="https://github.com/dawnyc/ROMTrack" target="_blank" rel="noopener"
+>Code&lt;/a> is available now.&lt;/li>
+&lt;li>[ &lt;u>2023.07.14&lt;/u> ] 🎉 Good News! One paper, abbreviated as &lt;strong>ROMTrack&lt;/strong>, is accepted by ICCV 2023.&lt;/li>
+&lt;/ul>
+&lt;h2 id="publications-" tabindex="-1">
+&lt;a href="#publications-" class="header-anchor" aria-hidden="true">#&lt;/a>
+Publications 📝
+&lt;/h2>&lt;ul>
+&lt;li>
+&lt;em>
+&lt;strong>
+&lt;a href="https://arxiv.org/abs/2506.03144" target="_blank" rel="noopener noreferrer">
+&lt;font color=DarkSalmon>MERIT: Multilingual Semantic Retrieval with Interleaved Multi-Condition Query&lt;/font>
+&lt;svg class="external-link-icon" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15">&lt;path fill="#1E88E5" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z">&lt;/path>&lt;polygon fill="#1E88E5" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9">&lt;/polygon>&lt;/svg>
+&lt;/a>
+&lt;/strong>
+&lt;/em>
+&lt;br>
+Wei Chow, Yuan Gao, Linfeng Li, Xian Wang, Qi Xu, Hang Song, Lingdong Kong, Ran Zhou, Yi Zeng, &lt;u>&lt;strong>Yidong Cai&lt;/strong>&lt;/u>, Botian Jiang, Shilin Xu, Jiajun Zhang, Minghui Qiu, Xiangtai Li, Tianshu Yang, Siliang Tang, Juncheng Li.
+&lt;br>
+➡️ Dataset and Benchmark, 2025.
+&lt;br>
+&lt;a href="https://arxiv.org/abs/2506.03144">&lt;img src="https://img.shields.io/badge/arXiv-2506.03144-b31b1b.svg?style=flat-square" alt="Arxiv-2506.03144">&lt;/a>
+&lt;a href="https://merit-2025.github.io/">&lt;img src=https://img.shields.io/badge/MERIT-Project%20Page-9cf?style=flat-square">&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;em>
+&lt;strong>
+&lt;a href="https://arxiv.org/abs/2308.05140" target="_blank" rel="noopener noreferrer">
+&lt;font color=DarkSalmon>Robust Object Modeling for Visual Tracking&lt;/font>
+&lt;svg class="external-link-icon" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15">&lt;path fill="#1E88E5" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z">&lt;/path>&lt;polygon fill="#1E88E5" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9">&lt;/polygon>&lt;/svg>
+&lt;/a>
+&lt;/strong>
+&lt;/em>
+&lt;br>
+&lt;u>&lt;strong>Yidong Cai&lt;/strong>&lt;/u>, Jie Liu, Jie Tang, Gangshan Wu.
+&lt;br>
+➡️ IEEE International Conference on Computer Vision (&lt;strong>ICCV&lt;/strong>), 2023.
+&lt;br>
+&lt;a href="https://arxiv.org/abs/2308.05140">&lt;img src="https://img.shields.io/badge/arXiv-2308.05140-b31b1b.svg?style=flat-square" alt="Arxiv-2308.05140">&lt;/a>
+&lt;a href="https://github.com/dawnyc/ROMTrack">&lt;img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dawnyc/ROMTrack?style=flat-square&amp;amp;logo=github&amp;amp;label=GitHub Stars&amp;amp;labelColor=black">&lt;/a>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="academic-services-" tabindex="-1">
+&lt;a href="#academic-services-" class="header-anchor" aria-hidden="true">#&lt;/a>
+Academic Services 💼
+&lt;/h2>&lt;ul>
+&lt;li>&lt;em>&lt;strong>Journal Review&lt;/strong>&lt;/em> :
+&lt;ul>
+&lt;li>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)&lt;/li>
+&lt;li>IEEE Transactions on Multimedia (TMM)&lt;/li>
+&lt;li>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)&lt;/li>
+&lt;li>ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)&lt;/li>
+&lt;li>Journal of Visual Communication and Image Representation (JVCIR)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;em>&lt;strong>Conference Review&lt;/strong>&lt;/em> :
+&lt;ul>
+&lt;li>IEEE International Conference on Computer Vision (ICCV)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;em>&lt;strong>Teaching Assistant&lt;/strong>&lt;/em> :
+&lt;ul>
+&lt;li>Introduction to Computer System (ICS)&lt;/li>
+&lt;li>Multimedia Technology&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="educations-" tabindex="-1">
+&lt;a href="#educations-" class="header-anchor" aria-hidden="true">#&lt;/a>
+Educations 🎓
+&lt;/h2>&lt;ul>
+&lt;li>&lt;u>2021.9 - 2024.6&lt;/u>: M.Sc., Nanjing University, Nanjing.
+&lt;ul>
+&lt;li>Department of Computer Science and Technology.&lt;/li>
+&lt;li>&lt;a class="link" href="https://mcg.nju.edu.cn/" target="_blank" rel="noopener"
+>MCG Group&lt;/a>, supervised by &lt;a class="link" href="https://tangjie-njucs.github.io/" target="_blank" rel="noopener"
+>Assoc. Prof. Jie Tang&lt;/a>, &lt;a class="link" href="https://wanglimin.github.io/" target="_blank" rel="noopener"
+>Prof. Liming Wang&lt;/a> and &lt;a class="link" href="https://mcg.nju.edu.cn/member/gswu/index.html" target="_blank" rel="noopener"
+>Prof. Gangshan Wu&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;u>2017.9 - 2021.6&lt;/u>: B.Sc., Nanjing University, Nanjing.
+&lt;ul>
+&lt;li>Department of Computer Science and Technology.&lt;/li>
+&lt;li>&lt;u>2020.9 - 2021.6&lt;/u>: Research on Visual Object Tracking, supervised by &lt;a class="link" href="https://wanglimin.github.io/" target="_blank" rel="noopener"
+>Prof. Liming Wang&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;u>2012.9 - 2017.6&lt;/u>: Tianyi High School, Jiangsu.
+&lt;ul>
+&lt;li>Both junior school and senior school.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="experiences-" tabindex="-1">
+&lt;a href="#experiences-" class="header-anchor" aria-hidden="true">#&lt;/a>
+Experiences 🖥️
+&lt;/h2>&lt;ul>
+&lt;li>&lt;u>2024.7 - Present&lt;/u>: Machine Learning Engineer (&lt;strong>MLE&lt;/strong>) - Multimodal.
+&lt;ul>
+&lt;li>Governance and Experience, Global E-commerce, Data, ByteDance, Shanghai.&lt;/li>
+&lt;li>Mainly focus on the research and development of Vision-Language Models for e-commerce safety.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;u>2023.6 - 2023.9&lt;/u>: Machine Learning Engineer (&lt;strong>MLE&lt;/strong>) Intern - Computer Vision.
+&lt;ul>
+&lt;li>Alimama, Taobao &amp;amp; Tmall Group, Alibaba Group, Hangzhou.&lt;/li>
+&lt;li>Mainly focus on the research and development of Multimodal &amp;amp; AIGC algorithms.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="honors-and-awards-" tabindex="-1">
+&lt;a href="#honors-and-awards-" class="header-anchor" aria-hidden="true">#&lt;/a>
+Honors and Awards 🏅
+&lt;/h2>&lt;ul>
+&lt;li>&lt;strong>Outstanding Graduate Student&lt;/strong> of Nanjing University, 2024.&lt;/li>
+&lt;li>&lt;strong>Tencent Scholarship&lt;/strong>, 2024.&lt;/li>
+&lt;li>&lt;strong>Academic Scholarship&lt;/strong> of Nanjing University,
+&lt;ul>
+&lt;li>2021 (&lt;em>First Prize&lt;/em>) &amp;amp; 2022 (&lt;em>Second Prize&lt;/em>) &amp;amp; 2023 (&lt;em>Second Prize&lt;/em>).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>People&amp;rsquo;s Scholarship&lt;/strong> of Nanjing University, 2018 &amp;amp; 2019 &amp;amp; 2020.
+&lt;ul>
+&lt;li>2018 (&lt;em>Second Prize&lt;/em>) &amp;amp; 2019 (&lt;em>First Prize&lt;/em>) &amp;amp; 2020 (&lt;em>Second Prize&lt;/em>).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Third Prize&lt;/strong> in Jiangsu Mathematical Modeling Competition, 2019.&lt;/li>
+&lt;li>&lt;strong>Silver Medal&lt;/strong> in 12th China Southeast Mathematical Olympiad, 2015.&lt;/li>
+&lt;/ul>
+&lt;h2 id="contact-" tabindex="-1">
+&lt;a href="#contact-" class="header-anchor" aria-hidden="true">#&lt;/a>
+Contact 📫
+&lt;/h2>&lt;ul>
+&lt;li>Email:
+&lt;ul>
+&lt;li>Gmail: &lt;a class="link" href="mailto:dawnyc1123@gmail.com" >dawnyc1123@gmail.com&lt;/a>&lt;/li>
+&lt;li>Edu-mail: &lt;a class="link" href="mailto:yidong_cai@smail.nju.edu.cn" >yidong_cai@smail.nju.edu.cn&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>Blogs</title><link>https://dawnyc.github.io/homepage/blogs/</link><pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate><guid>https://dawnyc.github.io/homepage/blogs/</guid><description/></item><item><title>Links</title><link>https://dawnyc.github.io/homepage/links/</link><pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate><guid>https://dawnyc.github.io/homepage/links/</guid><description>&lt;p>Some friendly links are provided here. ❤️&lt;/p></description></item><item><title>Search</title><link>https://dawnyc.github.io/homepage/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dawnyc.github.io/homepage/search/</guid><description/></item></channel></rss>
