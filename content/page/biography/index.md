@@ -17,8 +17,9 @@ comments: false
 [![Google Scholar](https://img.shields.io/badge/Yidong%20Cai-Google%20Scholar-%23d996c4?style=flat-square)](https://scholar.google.com/citations?hl=en&user=WCl61vMAAAAJ)
 [![GitHub](https://img.shields.io/github/followers/dawnyc?label=follow&style=social)](https://github.com/dawnyc)
 [![Gmail](https://img.shields.io/badge/-Yidong_Cai-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:dawnyc1123@gmail.com)
-<!-- [![Google Scholar](https://img.shields.io/endpoint?url=https://google-scholar-badge.replit.app/citations?user=WCl61vMAAAAJ&style=flat-square)](https://scholar.google.com/citations?hl=en&user=WCl61vMAAAAJ) -->
 <!-- [![Google Scholar](https://img.shields.io/endpoint?url=https://google-scholar-badge.vercel.app/citations?user=WCl61vMAAAAJ&style=flat-square)](https://scholar.google.com/citations?hl=en&user=WCl61vMAAAAJ) -->
+<!-- The followings are not available now -->
+<!-- [![Google Scholar](https://img.shields.io/endpoint?url=https://google-scholar-badge.replit.app/citations?user=WCl61vMAAAAJ&style=flat-square)](https://scholar.google.com/citations?hl=en&user=WCl61vMAAAAJ) -->
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=dawnyc&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> -->
 
 I'm currently a **Machine Learning Engineer** at ByteDance, mainly on duty with research and development of Vision-Language Models for e-commerce safety. I received my **Master of Science in Engineering** in June 2024 at [MCG Group](https://mcg.nju.edu.cn/), [Department of Computer Science and Technology](https://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/main.htm), under the supervision of [Assoc. Prof. Jie Tang](https://tangjie-njucs.github.io/). I also received my **Bachelor of Science** in Computer Science and Technology from Nanjing University in June 2021.
@@ -26,7 +27,8 @@ I'm currently a **Machine Learning Engineer** at ByteDance, mainly on duty with 
 My research interests include **Computer Vision**, **Multimodal Deep Learning** and **Generative Deep Learning**, recently lie in **Visual Object Tracking (VOT)**, **Vision-Language Models** and **Generative Models**.
 
 ## News 🔥
- * [ <u>2025.06.12</u> ] 🤗 We propose **MERIT**, <u>the first multilingual dataset for interleaved multi-condition semantic retrieval</u>, comprising 320,000 queries with 135,000 products in 5 languages while covering 7 distinct product categories. Meanwhile, a novel fine-tuning framework named **Coral** is constructed to adapt pre-trained MLLMs for embedding extraction. [arXiv](https://arxiv.org/abs/2506.03144) and [Project Page](https://merit-2025.github.io/) is available now.
+ * [ <u>2025.09.19</u> ] 🎉 **MERIT** is accepted by NeurIPS 2025! [Code](https://github.com/weichow23/merit) and [Dataset](https://huggingface.co/datasets/WeiChow/merit) are available now.
+ * [ <u>2025.06.12</u> ] 🤗 We propose **MERIT**, the first multilingual dataset for interleaved multi-condition semantic retrieval, comprising 320,000 queries with 135,000 products in 5 languages while covering 7 distinct product categories. Meanwhile, a novel fine-tuning framework named **Coral** is constructed to adapt pre-trained MLLMs for embedding extraction. [arXiv](https://arxiv.org/abs/2506.03144) and [Project Page](https://merit-2025.github.io/) are available now.
  * [ <u>2024.03.21</u> ] 📖 A [Zhihu Blog](https://zhuanlan.zhihu.com/p/662351482) is published to explain main ideas of the paper.
  * [ <u>2023.10.18</u> ] 📄 Both [CVF](https://openaccess.thecvf.com/content/ICCV2023/papers/Cai_Robust_Object_Modeling_for_Visual_Tracking_ICCV_2023_paper.pdf) and [arXiv](https://arxiv.org/abs/2308.05140) version of **ROMTrack** are updated! This is a tracker utilizing the newly proposed object modeling paradigm, significantly improving robustness. [Code](https://github.com/dawnyc/ROMTrack) is available now.
  * [ <u>2023.07.14</u> ] 🎉 Good News! One paper, abbreviated as **ROMTrack**, is accepted by ICCV 2023.
@@ -43,9 +45,11 @@ My research interests include **Computer Vision**, **Multimodal Deep Learning** 
     <br>
     Wei Chow, Yuan Gao, Linfeng Li, Xian Wang, Qi Xu, Hang Song, Lingdong Kong, Ran Zhou, Yi Zeng, <u><strong>Yidong Cai</strong></u>, Botian Jiang, Shilin Xu, Jiajun Zhang, Minghui Qiu, Xiangtai Li, Tianshu Yang, Siliang Tang, Juncheng Li.
     <br>
-    ➡️ Dataset and Benchmark, 2025.
+    ➡️ The 39th Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), Datasets and Benchmarks, 2025.
     <br>
     <a href="https://arxiv.org/abs/2506.03144"><img src="https://img.shields.io/badge/arXiv-2506.03144-b31b1b.svg?style=flat-square" alt="Arxiv-2506.03144"></a>
+    <a href="https://github.com/weichow23/merit"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/weichow23/merit?style=flat-square&amp;logo=github&amp;label=GitHub Stars&amp;labelColor=black"></a>
+    <a href="https://huggingface.co/datasets/WeiChow/merit"><img src="https://img.shields.io/badge/🤗%20Huggingface-Dataset-yellow"></a>
     <a href="https://merit-2025.github.io/"><img src=https://img.shields.io/badge/MERIT-Project%20Page-9cf?style=flat-square"></a>
  *  <em>
       <strong>
@@ -58,7 +62,7 @@ My research interests include **Computer Vision**, **Multimodal Deep Learning** 
     <br>
     <u><strong>Yidong Cai</strong></u>, Jie Liu, Jie Tang, Gangshan Wu. 
     <br>
-    ➡️ IEEE International Conference on Computer Vision (<strong>ICCV</strong>), 2023.
+    ➡️ The 19th IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>), 2023.
     <br>
     <a href="https://arxiv.org/abs/2308.05140"><img src="https://img.shields.io/badge/arXiv-2308.05140-b31b1b.svg?style=flat-square" alt="Arxiv-2308.05140"></a>
     <a href="https://github.com/dawnyc/ROMTrack"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dawnyc/ROMTrack?style=flat-square&amp;logo=github&amp;label=GitHub Stars&amp;labelColor=black"></a>
