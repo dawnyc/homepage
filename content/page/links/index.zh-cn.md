@@ -16,6 +16,10 @@ links:
     description: ICCV 2023 论文《Robust Object Modeling for Visual Tracking》的开源仓库
     website: https://github.com/dawnyc/ROMTrack
     image: github.png
+  - title: MERIT - 项目主页
+    description: NeurIPS 2025 论文《Multilingual Semantic Retrieval with Interleaved Multi-Condition Query》的项目主页，包含论文、开源仓库和数据集
+    website: https://merit-2025.github.io
+    image: merit.png
   - title: TravelingJudy - 摸鱼日记
     description: 一个有趣的博客，记录了旅行的行程和风景
     website: https://travelingjudy.github.io/
@@ -33,4 +37,5 @@ menu:
 comments: false
 ---
 
-友情链接如下所示 ❤️ ：
+昨日种种，皆成今我。<br>
+万千世界，悉自此始。

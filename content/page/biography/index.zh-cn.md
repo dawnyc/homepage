@@ -25,6 +25,7 @@ comments: false
 我的研究方向主要是**计算机视觉**、**多模态深度学习**和**生成式深度学习**，近期主要关注**视觉目标跟踪（VOT）**、**视觉语言模型**和**生成式模型**。
 
 ## 最新消息 🔥
+ * [ <u>2025.09.19</u> ] 🎉 **MERIT** 被 NeurIPS 2025 接收！ [代码](https://github.com/weichow23/merit) 和 [数据集](https://huggingface.co/datasets/WeiChow/merit) 已经公布。
  * [ <u>2025.06.12</u> ] 🤗 我们提出了**MERIT**，</u>第一个用于多条件交错语义检索的多语言数据集</u>，共包含 320,000 条查询和 135,000 个商品，覆盖了 5 种语言（英语、泰语、印尼语、越南语、马来语）和 7 个不同的商品类别（服装、电子产品、食品、家具、包、珠宝等）。同时，我们还构建了一个新的微调框架**Coral**，以适配经过预训练的多模态大模型进行表征提取。[arXiv](https://arxiv.org/abs/2506.03144) 预印版论文和 [项目主页](https://merit-2025.github.io/) 已经公布。
  * [ <u>2024.03.21</u> ] 📖 我发布了一篇[知乎博客](https://zhuanlan.zhihu.com/p/662351482)，讲解了论文的主要思路。
  * [ <u>2023.10.18</u> ] 📄 [CVF](https://openaccess.thecvf.com/content/ICCV2023/papers/Cai_Robust_Object_Modeling_for_Visual_Tracking_ICCV_2023_paper.pdf) 正式版论文和 [arXiv](https://arxiv.org/abs/2308.05140) 预印版论文均已公布！ **ROMTrack** 跟踪器采用了新提出的目标建模范式，显著提高了跟踪鲁棒性。 [代码](https://github.com/dawnyc/ROMTrack)已经开源。
@@ -42,9 +43,11 @@ comments: false
     <br>
     Wei Chow, Yuan Gao, Linfeng Li, Xian Wang, Qi Xu, Hang Song, Lingdong Kong, Ran Zhou, Yi Zeng, <u><strong>Yidong Cai</strong></u>, Botian Jiang, Shilin Xu, Jiajun Zhang, Minghui Qiu, Xiangtai Li, Tianshu Yang, Siliang Tang, Juncheng Li.
     <br>
-    ➡️ Dataset and Benchmark, 2025.
+    ➡️ The 39th Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), Datasets and Benchmarks, 2025.
     <br>
     <a href="https://arxiv.org/abs/2506.03144"><img src="https://img.shields.io/badge/arXiv-2506.03144-b31b1b.svg?style=flat-square" alt="Arxiv-2506.03144"></a>
+    <a href="https://github.com/weichow23/merit"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/weichow23/merit?style=flat-square&amp;logo=github&amp;label=GitHub Stars&amp;labelColor=black"></a>
+    <a href="https://huggingface.co/datasets/WeiChow/merit"><img src="https://img.shields.io/badge/🤗%20Huggingface-Dataset-yellow"></a>
     <a href="https://merit-2025.github.io/"><img src=https://img.shields.io/badge/MERIT-Project%20Page-9cf?style=flat-square"></a>
  *  <em>
       <strong>
@@ -57,7 +60,7 @@ comments: false
     <br>
     <u><strong>Yidong Cai</strong></u>, Jie Liu, Jie Tang, Gangshan Wu. 
     <br>
-    ➡️ IEEE International Conference on Computer Vision (<strong>ICCV</strong>), 2023.
+    ➡️ The 19th IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>), 2023.
     <br>
     <a href="https://arxiv.org/abs/2308.05140"><img src="https://img.shields.io/badge/arXiv-2308.05140-b31b1b.svg?style=flat-square" alt="Arxiv-2308.05140"></a>
     <a href="https://github.com/dawnyc/ROMTrack"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dawnyc/ROMTrack?style=flat-square&amp;logo=github&amp;label=GitHub Stars&amp;labelColor=black"></a>
