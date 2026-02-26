@@ -47,8 +47,10 @@ comments: false
     ➡️ International Journal of Computer Vision (<strong>IJCV</strong>), 2026.
     <br>
     <a href="https://arxiv.org/abs/2602.00570"><img src="https://img.shields.io/badge/arXiv-2602.00570-b31b1b.svg?style=flat-square" alt="Arxiv-2602.00570"></a>
+    <a href="https://link.springer.com/article/10.1007/s11263-026-02774-7"><img src="https://img.shields.io/badge/Springer%20Nature%20DOI-10%2E1007%2Fs11263%E2%80%93026%E2%80%9302774%E2%80%937-%239996c4"></a>
+    <br>
     <a href="https://github.com/Confetti-lxy/GLAD"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Confetti-lxy/GLAD?style=flat-square&amp;logo=github&amp;label=GitHub Stars&amp;labelColor=black"></a>
-    <a href="https://huggingface.co/Confetti/GLAD"><img src="https://img.shields.io/badge/🤗%20Huggingface-Results&Ckpts-red"></a>
+    <a href="https://huggingface.co/Confetti/GLAD"><img src="https://img.shields.io/badge/🤗%20Huggingface-Checkpoint-red"></a>
  *  <em>
       <strong>
         <a href="https://arxiv.org/abs/2506.03144" target="_blank" rel="noopener noreferrer">
@@ -60,12 +62,15 @@ comments: false
     <br>
     Wei Chow, Yuan Gao, Linfeng Li, Xian Wang, Qi Xu, Hang Song, Lingdong Kong, Ran Zhou, Yi Zeng, <u><strong>Yidong Cai</strong></u>, Botian Jiang, Shilin Xu, Jiajun Zhang, Minghui Qiu, Xiangtai Li, Tianshu Yang, Siliang Tang, Juncheng Li.
     <br>
-    ➡️ The 39th Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), Datasets and Benchmarks, 2025.
+    ➡️ The 39th Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025.
     <br>
     <a href="https://arxiv.org/abs/2506.03144"><img src="https://img.shields.io/badge/arXiv-2506.03144-b31b1b.svg?style=flat-square" alt="Arxiv-2506.03144"></a>
+    <a href="https://openreview.net/forum?id=ctsLGmMnCT"><img src="https://img.shields.io/badge/OpenReview-NeurIPS%202025%20poster-%239996c4"></a>
+    <br>
     <a href="https://github.com/weichow23/merit"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/weichow23/merit?style=flat-square&amp;logo=github&amp;label=GitHub Stars&amp;labelColor=black"></a>
-    <a href="https://huggingface.co/datasets/WeiChow/merit"><img src="https://img.shields.io/badge/🤗%20Huggingface-Dataset-yellow"></a>
     <a href="https://merit-2025.github.io/"><img src=https://img.shields.io/badge/MERIT-Project%20Page-9cf?style=flat-square"></a>
+    <a href="https://huggingface.co/datasets/WeiChow/merit"><img src="https://img.shields.io/badge/🤗%20Huggingface-Dataset-yellow"></a>
+    <a href="https://huggingface.co/Bia/CORAL"><img src="https://img.shields.io/badge/🤗%20Huggingface-Checkpoint-red"></a>
  *  <em>
       <strong>
         <a href="https://arxiv.org/abs/2308.05140" target="_blank" rel="noopener noreferrer">
@@ -80,7 +85,10 @@ comments: false
     ➡️ The 19th IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>), 2023.
     <br>
     <a href="https://arxiv.org/abs/2308.05140"><img src="https://img.shields.io/badge/arXiv-2308.05140-b31b1b.svg?style=flat-square" alt="Arxiv-2308.05140"></a>
+    <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Cai_Robust_Object_Modeling_for_Visual_Tracking_ICCV_2023_paper.html"><img src="https://img.shields.io/badge/CVF%20Open%20Access-9589%E2%80%939600-%239996c4"></a>
+    <br>
     <a href="https://github.com/dawnyc/ROMTrack"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dawnyc/ROMTrack?style=flat-square&amp;logo=github&amp;label=GitHub Stars&amp;labelColor=black"></a>
+    <a href="https://zhuanlan.zhihu.com/p/662351482"><img src=https://img.shields.io/badge/ROMTrack-Project%20Page-9cf?style=flat-square"></a>
 
 ## 学术服务 💼
  * <em>**期刊审稿**</em> :
@@ -91,7 +99,8 @@ comments: false
    - Journal of Visual Communication and Image Representation (JVCIR)
    - Pattern Recognition (PR)
  * <em>**会议审稿**</em> :
-   - IEEE International Conference on Computer Vision (ICCV) 
+   - IEEE International Conference on Computer Vision (ICCV)
+   - British Machine Vision Conference (BMVC)
  * <em>**课程助教**</em> :
    - 计算机系统基础（ICS）
    - 多媒体技术
